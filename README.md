@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joey</h1>
+<img src=”1578336232045.jpeg” alt=”alt text” width=”200"/>
 <h3 align="center">An Empathetic Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeyh92989&label=Profile%20views&color=0e75b6&style=flat" alt="joeyh92989" /> </p>
