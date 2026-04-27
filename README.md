@@ -14,7 +14,6 @@ Before engineering, I spent 8+ years as a product manager across enterprise SaaS
 
 ## What I've been focused on
 
-- Leading my team's integration with a new company-wide benefits determination platform
 - Building transaction-recording APIs, tax classification systems, and spend reporting pipelines
 - Standing up new services (calendar management, funding context tracking)
 - Automating data ingestion from third-party benefits administrators
