@@ -1,26 +1,37 @@
-<h1 align="center">Hi 👋, I'm Joey</h1>
-<h3 align="center">An Empathetic Backend Developer</h3>
+# Hey, I'm Joey
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joeyh92989&label=Profile%20views&color=0e75b6&style=flat" alt="joeyh92989" /> </p>
+Senior Software Engineer at [Guild Education](https://www.guildeducation.com), building distributed backend services that power education benefits for Fortune 1000 employers. Most of my day-to-day work (264+ PRs and counting) lives in a private org, so this profile is quieter than my actual output.
 
-- 🔭 I’m currently working on [whether_sweater](https://github.com/joeyh92989/whether_sweater)
+Before engineering, I spent 8+ years as a product manager across enterprise SaaS, payments, and video platforms — which means I think about the *why* as much as the *how*.
 
-- 🌱 I’m currently learning **Javascript,Bootstrap**
+## What I work with
 
-- 💬 Ask me about **Ruby, Ruby on Rails,**
+**Day-to-day:** Node.js, TypeScript, GraphQL (AWS AppSync), PostgreSQL, Event-Driven Architecture, Datadog
 
-- 📫 How to reach me **josephthaas@gmail.com**
+**Also comfortable in:** Python, Ruby, Go, React, Docker, Snowflake
 
-- ⚡ Fun fact **I know too much about Star Wars**
+**How I work:** REST & GraphQL API design, CI/CD (GitHub Actions), TDD, Architecture Decision Records
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/haasjoseph/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haasjoseph/" height="30" width="40" /></a>
-</p>
+## What I've been focused on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+- Leading my team's integration with a new company-wide benefits determination platform
+- Building transaction-recording APIs, tax classification systems, and spend reporting pipelines
+- Standing up new services (calendar management, funding context tracking)
+- Automating data ingestion from third-party benefits administrators
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeyh92989&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="joeyh92989" /></p>
+## Older projects (from Turing School)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joeyh92989&" alt="joeyh92989" /></p>
+These are from when I was learning Ruby/Rails in 2021 — they don't reflect my current work, but they're here:
+
+- [rails-engine](https://github.com/joeyh92989/rails-engine) — Backend API for a service-oriented eCommerce platform
+- [viewing-party](https://github.com/joeyh92989/viewingparty) — Movie scheduling app with external API consumption and auth
+- [little-esty-shop](https://github.com/joeyh92989/little-esty-shop) — Mock eCommerce platform with complex ActiveRecord queries
+
+## Get in touch
+
+- [LinkedIn](https://www.linkedin.com/in/haasjoseph/)
+- [josephthaas@gmail.com](mailto:josephthaas@gmail.com)
+
+---
+
+<sub>Fun fact: I know too much about Star Wars.</sub>
